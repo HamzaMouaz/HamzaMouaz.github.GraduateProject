@@ -31,7 +31,7 @@ For a detailed demonstration of the chatbot in action, please watch the followin
 For any inquiries or further information, please contact:
 
 - **Mouaz Rayane Hamza**: [mouazrayanehamza@gmail.com]
-- **GitHub**: [My GitHub Profile]((https://github.com/HamzaMouaz/)](https://github.com/HamzaMouaz/))
+- **GitHub**: [My GitHub Profile]((https://github.com/HamzaMouaz/)])
 
 Thank you for visiting our project site!
 
