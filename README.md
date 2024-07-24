@@ -1,7 +1,6 @@
-# hamzamouaz.github.graduateproject
 # Intelligent Customer Support Chatbot for DJEZZY
 
-Welcome to the GitHub Pages site for the Intelligent Customer Support Chatbot project for DJEZZY. This site provides an overview of the project, including a summary of the work and a demonstration video.
+Welcome to the demonstration site for the Intelligent Customer Support Chatbot project for DJEZZY. This site provides an overview of the project, including a summary of the work and a demonstration video.
 
 ## Project Summary
 
@@ -25,16 +24,14 @@ For a detailed demonstration of the chatbot in action, please watch the followin
 
 [![YouTube Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
 
-## How to Access the Site
 
-This project is hosted using GitHub Pages. To view the site, navigate to [GitHub Pages Link](https://username.github.io/repository-name).
 
 ## Contact
 
 For any inquiries or further information, please contact:
 
-- **Your Name**: [mouazrayanehamza@gmail.com]
-- **Your GitHub**: [Your GitHub Profile]([https://github.com/your-username](https://github.com/HamzaMouaz/))
+- **Mouaz Rayane Hamza**: [mouazrayanehamza@gmail.com]
+- **GitHub**: [My GitHub Profile]((https://github.com/HamzaMouaz/)](https://github.com/HamzaMouaz/))
 
 Thank you for visiting our project site!
 
