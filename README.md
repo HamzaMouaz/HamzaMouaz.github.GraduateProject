@@ -1,37 +1,8 @@
 # hamzamouaz.github.graduateproject
-<!DOCTYPE html>
-{% load static %}
-<!-- Created By CodingLab - www.codinglabweb.com -->
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Login Form | Joshyvibe</title> 
-    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
-  </head>
-  <body>
-    <div class="container">
-      <div class="wrapper">
-        <div class="title"><span>Welcome Lets login</span></div>
-        <form name="LoginForm" action="{% url 'login' %}" method="post"> <!-- Remplacez 'redirect_page' par le nom de votre vue de redirection -->
-            {% csrf_token %}
-          <div class="row">
-            <i class="fas fa-user"></i>
-            <input type="username" id="id_username" name="username" placeholder="Email or Phone" required>
-          </div>
-          <div class="row">
-            <i class="fas fa-lock"></i>
-            <input type="password" id="id_password" name="password" placeholder="Password" required>
-          </div>
-          <div class="pass"><a href="#">Forgot password?</a></div>
-          <div class="row button">
-            <input type="submit">
-          </div>
-          <div class="signup-link">Not a member? <a href="{% url 'signup' %}">Signup now</a></div>
-        </form>
-      </div>
-    </div>
 
-  </body>
-</html>
+# Abstract
+This project presents the development and implementation of an intelligent customer support chatbot for Djezzy, a telecommunications service provider in Algeria. The main objective of this research is to enhance customer experience while optimizing the company's operational efficiency. To achieve this, we utilized machine learning techniques, including neural networks and transformers, to train a chatbot capable of answering customer inquiries, providing instant assistance, and reducing waiting times.
+
+In this thesis, we first provide an overview of Djezzy and its customer support needs. Next, we explain the fundamental concepts of chatbots, including the architectures and technologies used. We also detail the process of data collection and preprocessing, as well as the methods for evaluating and implementing the chatbot.
+
+The results of our study show that the developed chatbot offers effective customer support, reducing waiting times and improving the overall customer experience. In conclusion, this thesis highlights the importance of intelligent chatbots in enhancing the operational efficiency of companies and optimizing the customer experience.
