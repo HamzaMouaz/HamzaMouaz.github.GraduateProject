@@ -20,7 +20,7 @@ The results of our study show that the developed chatbot offers effective custom
 
 ## Demonstration Video
 
-For a detailed demonstration of the chatbot in action, please watch the following YouTube video:
+For a detailed demonstration of the chatbot in action, please watch the following video:
 
 [![YouTube Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
 
