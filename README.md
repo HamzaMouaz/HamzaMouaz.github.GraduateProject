@@ -32,7 +32,7 @@ For any inquiries or further information, please contact:
 
 - **Mouaz Rayane Hamza**: [mouazrayanehamza@gmail.com]
 - **GitHub**: [My GitHub Profile](https://github.com/HamzaMouaz/)
-- - **Linkedin**: [My Linkedin Profile](www.linkedin.com/in/rayane-hamza-mouaz)
+- **Linkedin**: [My Linkedin Profile](www.linkedin.com/in/rayane-hamza-mouaz)
 
 Thank you for visiting our project site!
 
